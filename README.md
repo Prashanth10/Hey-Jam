@@ -1,2 +1,2 @@
 # Hey-Jam
-College level Social media
+Institution level Social media
